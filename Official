@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<title>Rock Paper Scissors</title>
+<title>Rock, Paper, Scissors!</title>
 </head>
 <body>
 
@@ -160,8 +160,8 @@ ctx.clearRect(2,30,795,365);
 }
 
 if(token === 0) {
-confirm("You don't have any tokens!")
-confirm("You Lose!")
+confirm("You don't have any more tokens left!")
+confirm("You lose!")
 }
 
 
